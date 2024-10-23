@@ -1,11 +1,26 @@
 body {
-
+    font-family: 'Courier New', Courier, monospace;
+    background: url("./images/table.png");
+    color: white;
+    font-weight: bold;
+    text-align: center;
 }
+
 
 h1 {
     color: goldenrod;
 }
 
+
 #message-el {
-    
+   font-weight: bold;
+}
+
+
+button {
+    background-color: goldenrod;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 6px;
+    width: 150px;
 }
